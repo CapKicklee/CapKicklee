@@ -1,4 +1,10 @@
-### Hi there 👋
+# Bonjour ! 🥖
+
+I'm Kendall, currently Software Engineer at Valeuriad. As of now, I'm thriving in an environment where I can experiment new technologies, frameworks, processes, you name it. I'm a motivated DevOps Engineer, also discovering Scrum Master and Product Owner roles to deepen my knowledge and experience in Software lifecycle management. On a more technical side, I specialize in `Java` development, also working with `Golang`, frontend frameworks such as `Angular` or `Vue.js`, having a good understanding of `Gitlab CI` and `Jenkins` workflows, and `Docker` and `Kubernetes` deployments.
+
+## Keeping up-to-date
+
+To freshen up my technical knowledge, I'm using [daily.dev](https://daily.dev/), having multiple articles to read in a single web browser tag.
 
 <!--
 **CapKicklee/CapKicklee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
