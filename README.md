@@ -5,7 +5,10 @@ I'm Kendall, currently Software Engineer at Valeuriad. As of now, I'm thriving i
 ## Keeping up-to-date
 
 To freshen up my technical knowledge, I'm using [daily.dev](https://daily.dev/), having multiple articles to read in a single web browser tag.
+
 <a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/CapKicklee/CapKicklee/blob/main/devcard.svg" width="400" alt="Kendall Forest's Dev Card"/></a>
+
+
 
 <!--
 **CapKicklee/CapKicklee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
